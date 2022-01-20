@@ -1,0 +1,13 @@
+# Stock Analysis
+Performing analysis on stock data to uncover trends
+# Stock Analysis with VBA
+## Overview of Project
+Steve just graduated from college with a degree in finance. His parents are interested in investing in green energy and have asked Steve for help.  Specifically, Steve's parents are interested in investing with DAQO New Energy Corporation. DAQO New Energy Corporation makes silicon wafers used in solar panels and trades on the stock market as "DQ".  For this project, we analyzed DQ stock prices as well as the prices for ten additional publicly traded companies in 2017 and 2018 using the Visual Basic for Applications (VBA) add-on in Excel to recommend whether DQ stock is a wise investment.
+## Results
+We analyzed the returns on DQ and ten other stocks (AY; CSIQ; ENPH; FSLR; HASI; JKS; RUN; SEDG; SPWR; TERP; and VSLR) for 2017 and 2018 using VBA in Microsoft Excel. 
+In 2017, the return on investment for DQ stock was 199.4%. All other stocks also had positive returns, with the exception of TERP with a return of -7.2%. Of the 11 stocks analyzed, DQ had the highest return rate for this year.
+In 2018, the return on investment rate for DQ was -62.6%. All other stocks, with the except of ENPH and RUN, also had negative returns in 2018. Of the 11 stocks analyzed, DQ had the lowest return rate for this year.
+## Summary
+What are the advantages or disadvantages of refactoring code?
+There are several advantages and disadvantages of refactoring code. Refactoring code makes the code simpler, cleaner, and shorter. However, it is difficult to write code as the refactored version from the start. 
+How do these pros and cons apply to refactoring the original VBA script?
