@@ -1,8 +1,8 @@
 # School_District_Analysis
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis
 The purpose of this analysis was to help Maria, the Chief Data Scientist of a local city school district, review standardized test scores for math and reading of the district's public and charter high schools. Scores were analyzed for all students at all schools. Scores were analyzed a second time after removing the data for ninth grade students at Thomas High School due to a suspected cheating incident. 
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Result
 - The local school district includes 15 high schools with 39,170 students. The total budget for the district is $24,649,428. 
 - The top five high schools with the highest rates of students passing both the math and reading portions of the standardized tests are Cabrera High School (91.3%), Thomas High School (90.6%), Griffin High School (90.6%), Wilson High School (90.6%), and Pena High School (90.5%).
 - The bottom five schools with the lowest rates of students passing both the math and reading portions of the standardized tests are Rodriguez High School (53.0%), Figueroa High School (53.2%), Huang High School (53.5%), Hernandez High School (53.5%), and Johnson High School (53.5%).
